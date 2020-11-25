@@ -90,3 +90,5 @@ collections:
     output: true
   temas:
     output: true
+
+baseurl: '/p04-t0-aprender-jekyll-alu0100825510'
